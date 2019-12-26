@@ -4,7 +4,6 @@ Format the sd card w/ sd formater (currently in my ...\Documents\Personal\Raspbe
 flash the image of the os onto the drive w/ balena etcher (currently in my ...\Documents\Personal\RaspberryPi)
 load into pi and follow prompts
 default username/password: ubuntu/ubuntu
-(current password is 1qaz@WSX)
 
 commands:
 sudo apt-get update
