@@ -1,6 +1,4 @@
-os/raspbian-nspawn-64.img.xz
-os/raspbian-nspawn-64.img.xz.asc
-
 # ignore os images in the os directory
 os/*.xz
+os/*.xz.asc
 os/*.zip
