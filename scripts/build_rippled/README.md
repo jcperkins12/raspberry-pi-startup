@@ -4,3 +4,7 @@ Ideally the scripts can be run in order with the user just updating their ~/.pro
 
 Run the scripts/commands from a x64 terminal
 * if using the rasbian-nspawn-64 os then use the x64 debian terminal which can be opened with "`ds64-shell`"
+
+
+__Trying to build the rippled server crashed my rpi 3b+ on multiple attempts__
+* Eventually I want to try it with a rpi 4b
